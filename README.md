@@ -195,10 +195,5 @@ You now know how to:
 ✔️ Open multiple terminals
 ✔️ Run ROS2 talker, listener, server, and client programs
 
-If you want, I can also:
-
-* create a **short version** of this README
-* add **GitHub Actions** to auto-build/push your Docker image
-* add **screenshots** or a diagram
-
-Just tell me!
+# Maintainer
+# Penushy Varri
